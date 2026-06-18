@@ -41,8 +41,8 @@ A brief, 2-3 sentence introduction about who you are, what you are passionate ab
 
 ## Connect With Me
 
-- 💼 **Professional Network:** [Link to your LinkedIn, Portfolio, or CV]
-- 📧 **Direct Contact:** [Your email address or professional contact point]
+- 💼 **Professional Network:** www.linkedin.com/in/elvis-wafuke-565914396
+- 📧 **Direct Contact:** elvis.wafuke@strathmore.edu
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer" />
